@@ -1,0 +1,57 @@
+{
+  "assignments": [
+    {
+      "id": "asg_demo1",
+      "title": "Essay 1: Causes of World War I",
+      "description": "Write a 1,000-word essay analysing the main causes of WWI. Cite at least three sources.",
+      "deadline": "2026-06-23T09:02:04.326Z",
+      "maxPoints": 100,
+      "createdBy": "Prof. Smith",
+      "createdAt": "2026-06-16T09:02:04.326Z"
+    },
+    {
+      "id": "asg_demo2",
+      "title": "Problem Set 3: Recursion",
+      "description": "Solve problems 1–8. Submit a link to your repository or paste your code.",
+      "deadline": "2026-06-19T09:02:00.000Z",
+      "maxPoints": 10,
+      "createdBy": "Prof. Smith",
+      "createdAt": "2026-06-17T09:02:04.326Z"
+    },
+    {
+      "id": "asg_demo3",
+      "title": "Reading Response: Chapter 4",
+      "description": "A short reflection on the assigned reading.",
+      "deadline": "2026-06-16T09:02:04.326Z",
+      "maxPoints": 20,
+      "createdBy": "Prof. Smith",
+      "createdAt": "2026-06-12T09:02:04.326Z"
+    }
+  ],
+  "submissions": [
+    {
+      "id": "sub_demo1",
+      "assignmentId": "asg_demo3",
+      "studentName": "Alice",
+      "content": "I found the chapter on supply and demand particularly insightful because...",
+      "submittedAt": "2026-06-15T09:02:04.326Z",
+      "updatedAt": "2026-06-15T09:02:04.326Z",
+      "grade": 18,
+      "feedback": "Great reflection — well argued. Watch your conclusion length.",
+      "gradedAt": "2026-06-17T09:02:04.326Z",
+      "gradedBy": "Prof. Smith"
+    },
+    {
+      "id": "sub_demo2",
+      "assignmentId": "asg_demo2",
+      "studentName": "Alice",
+      "content": "https://github.com/alice/recursion-pset",
+      "submittedAt": "2026-06-18T03:02:04.326Z",
+      "updatedAt": "2026-06-18T03:02:04.326Z",
+      "grade": 20,
+      "feedback": "",
+      "gradedAt": "2026-06-18T09:15:03.026Z",
+      "gradedBy": "Professor"
+    }
+  ]
+}
